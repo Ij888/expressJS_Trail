@@ -1,0 +1,3 @@
+//journal
+
+as express was only installed locally to the project folder, trying to create the cli-app project was giving an error of "express' is not recognized as an internal or external command operable program or batch file". According to a search on SO the solution that worked was using "npm install express-generator -g"
