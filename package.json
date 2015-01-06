@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ij888/expressJS_Trail/issues"
   },
-  "homepage": "https://github.com/Ij888/expressJS_Trail"
+  "homepage": "https://github.com/Ij888/expressJS_Trail",
+  "dependencies": {
+    "express": "^4.8.1"
+  }
 }
