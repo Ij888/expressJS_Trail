@@ -1,0 +1,19 @@
+{
+  "name": "expressJS_Trail",
+  "version": "1.0.0",
+  "description": "Ij888 companion excercise files to @azat _co ProExpressJS book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ij888/expressJS_Trail.git"
+  },
+  "author": "Ij Ofili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ij888/expressJS_Trail/issues"
+  },
+  "homepage": "https://github.com/Ij888/expressJS_Trail"
+}
